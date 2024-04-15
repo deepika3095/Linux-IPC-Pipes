@@ -4,7 +4,7 @@
 Operating systems Lab exercise
 # Ex03-Linux IPC - Unnamed Pipes
 
-# AIM:
+# AIM: 
 To write a C program that illustrate communication between two process using pipes
 
 # DESIGN STEPS:
